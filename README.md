@@ -8,14 +8,15 @@
 - Computers 101:
   - Operating Systems
   - Filesystems
-- Networking:
+- [Networking](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking):
 	- What Happens When ...
 	- TCP/IP
 	- DNS
 	- Troubleshooting
 - Security:
 	- OWASP
-- Programming:
+	- CIS
+- [Programming](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming):
 	- Bash
 	- Python
 	- Go
@@ -28,8 +29,9 @@
 	- Docker
 - Container Orchestration:
 	- Kubernetes
-	- Docker Swarm
-- Logging/Monitoring/Alerting/Performance
+- Logging
+- Monitoring/Alerting
+- Performance
 - Databases
 - Scalability
 - Reliability
