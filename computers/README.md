@@ -1,24 +1,19 @@
 # DevOpsBootcamp
 
-### Networking
+### Computers 101
 
 ### Table of Contents
-- [What Happens When ...](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#what-happens-when)
-- [TCP/IP](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#tcpip)
-- [DNS](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#dns)
-- Troubleshooting
+- Operating Systems
 
-#### What happens When...
+#### Operating Systems
 
-One of my favorite questions..."What happens when you type google.com into your browser's address box and press enter?"
+Books:
 
-- Here is a great compilation of details answers to this questions:
-https://github.com/alex/what-happens-when
+These are my current 2 favorite books:
+- This first one is a unix/linux sys admin book. The authors are hilarious and make this a fun read. Both 4th and 5th editions are great, but for different reasons. The 5th edition is more modern covering topics like containers and the cloud, however I like the 4th edition because they have exercises at the end of the chapters that I think are helpful to solidify the material. [UNIX and Linux System Administration Handbook, 5th edition](https://amzn.to/2xehZtf) OR [UNIX and Linux System Administration Handbook, 4th edition](https://amzn.to/2xgJHFJ)
+- This book goes in more detail and I would consider it more advanced. It has great exercises in the book. Highly recommend this book if you are interested in diving deeper into Linux. [The Linux Programming Interface: A Linux and UNIX System Programming Handbook](https://amzn.to/2x9m8PI) by Michael Kerrisk
 
-#### TCP/IP
 
-- I love this course, really helped solidify TCP/IP fundamentals. Pluralsight [Course on Networking](https://app.pluralsight.com/library/courses/networking-cisco-ccna-200-125-100-105/table-of-contents).
+Videos:
 
-#### DNS
-
-- Great O'reilly book, [BIND and DNS](http://shop.oreilly.com/product/9780596100575.do)
+- Awesome video on CPU cache. [Scott Meyers: Cpu Caches and Why You Care](https://youtu.be/WDIkqP4JbkE)

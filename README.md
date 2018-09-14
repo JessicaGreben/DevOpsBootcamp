@@ -14,11 +14,8 @@ The Table of Contents outlines what I think are the major buckets of knowledge u
 ### Table of Contents
 
 - History
-- Computers 101:
-	- Unix/Linux
-  - Operating Systems
-  - Filesystems
-	- Virtual Machines
+- [Computers 101](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/computers):
+  - [Operating Systems (Unix/Linux)](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming#operating-systems)
 - [Programming](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming):
 	- Bash
 	- [Python](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming#python)
@@ -26,6 +23,7 @@ The Table of Contents outlines what I think are the major buckets of knowledge u
 - Cloud:
 	- AWS
 	- GCP
+- Virtual Machines
 - [Containers](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containers):
 	- [Docker](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containers#docker)
 - [Container Orchestration](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containerorchestration):
