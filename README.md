@@ -4,7 +4,7 @@ Note: This project is a work in progress.
 
 ### Description
 
-I get the questions like this often "How do I get my first DevOps job?" or "How do I gain experience to get a DevOps job?".  I found myself giving people the same list of resources that I have used to over the years to learn more about DevOps and grow my own career.
+I get questions like this often "How do I get my first DevOps job?" or "How do I gain experience to get a DevOps job?".  I found myself giving people the same list of resources that I have used to over the years to learn more about DevOps and to grow my own career.
 
 This project is a collection of my favorite resources I've used over the years to learn about DevOps are related topics.
 
@@ -49,7 +49,7 @@ The Table of Contents outlines what I think are the major buckets of knowledge u
 - Orchestration
 - CI/CD
 - [Additional Resources and Misc Reading](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources)
-	- [Computer Science Degree Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#computersciencedDegreeresources)
-	- DevOps Bootcamp Resources
-	- Web Development Bootcamp Resources
+	- [Computer Science Degree Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#computer-science-degree-resources)
+	- [DevOps Bootcamp Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#devops-bootcamp-resources)
+	- [Web Development Bootcamp Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#web-development-bootcamp-resources)
 - Exercises
