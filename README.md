@@ -1,10 +1,10 @@
 # DevOpsBootcamp
 
-Note: This project is a work in progress.
+Note: This project is a work in progress and many of the topics below do not have resources added yet.
 
 ### Description
 
-I get questions like this often "How do I get my first DevOps job?" or "How do I gain experience to get a DevOps job?".  I found myself giving people the same list of resources that I have used to over the years to learn more about DevOps and to grow my own career.
+I get asked this question often "How do I gain experience to get a DevOps job?".  I found myself giving people the same list of resources that I've used over the years to learn more about DevOps and to grow my career.
 
 This project is a collection of my favorite resources I've used over the years to learn about DevOps are related topics.
 
