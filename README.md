@@ -10,6 +10,7 @@ This project is a collection of my favorite resources I've used over the years t
 
 The Table of Contents outlines what I think are the major buckets of knowledge used on a regular basis working in the field.
 
+Caveat... if you are new to this type of work, I think this list below can be overwheming and potentially discouraging. That is not my intention here. Rather I hope it provides a outline of content to learn over the years to come.  There seems to be a trend to learn things quickly. Titles like "Learn Python in 10 mins" and "Learn Kuberentes in 3 hours" are common and alluring, but unrealistic. The reality is that if you want to be good, you should think on the timeline of years, not minutes or hours. This article ["Teach Yourself Programming in Ten Years"](http://norvig.com/21-days.html) by Peter Norvig describes this beautifully.
 
 ### Table of Contents
 
