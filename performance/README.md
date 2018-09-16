@@ -6,7 +6,6 @@
 - Numbers Every Engineer Should Know
 
 #### Numbers Every Engineer Should Know
-- 
 | Type           | Time  |
 | :------------- | -----:|
 | L1 cache reference | 0.5 ns |
