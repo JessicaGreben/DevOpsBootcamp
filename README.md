@@ -14,6 +14,7 @@ Caveat... if you are new to this type of work, I think this list below can be ov
 
 ### Table of Contents
 
+- [Jobs](jobs). This first section is a description of jobs in the "DevOps" field.
 - History
 - [Computers 101](computers):
   - [Operating Systems (Unix/Linux)](programming#operating-systems)
@@ -34,9 +35,8 @@ Caveat... if you are new to this type of work, I think this list below can be ov
 	- [TCP/IP](networking#tcpip)
 	- [DNS](networking#dns)
 	- Troubleshooting
-- Security:
-	- OWASP
-	- CIS
+- [Security](security):
+	- [OWASP](security#owasp)
 - Logging
 - Monitoring/Alerting
 - [Performance](performance):
@@ -51,4 +51,3 @@ Caveat... if you are new to this type of work, I think this list below can be ov
 	- [Computer Science Degree Resources](resources#computer-science-degree-resources)
 	- [DevOps Bootcamp Resources](resources#devops-bootcamp-resources)
 	- [Web Development Bootcamp Resources](resources#web-development-bootcamp-resources)
-- Exercises
