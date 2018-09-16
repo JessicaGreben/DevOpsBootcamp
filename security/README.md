@@ -3,7 +3,7 @@
 ### Security
 
 ### Table of Contents
-- [OWASP](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/security#owasp)
+- [OWASP](#owasp)
 
 #### OWASP
 
