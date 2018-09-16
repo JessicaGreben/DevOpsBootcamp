@@ -15,24 +15,24 @@ Caveat... if you are new to this type of work, I think this list below can be ov
 ### Table of Contents
 
 - History
-- [Computers 101](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/computers):
-  - [Operating Systems (Unix/Linux)](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming#operating-systems)
-- [Programming](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming):
+- [Computers 101](computers):
+  - [Operating Systems (Unix/Linux)](programming#operating-systems)
+- [Programming](programming):
 	- Bash
-	- [Python](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming#python)
-	- [Go](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/programming#go)
+	- [Python](programming#python)
+	- [Go](programming#go)
 - Cloud:
 	- AWS
 	- GCP
 - Virtual Machines
-- [Containers](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containers):
-	- [Docker](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containers#docker)
-- [Container Orchestration](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containerorchestration):
-	- [Kubernetes](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/containerorchestration#kubernetes)
-- [Networking](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking):
-	- [What Happens When ...](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#what-happens-when)
-	- [TCP/IP](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#tcpip)
-	- [DNS](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#dns)
+- [Containers](containers):
+	- [Docker](containers#docker)
+- [Container Orchestration](containerorchestration):
+	- [Kubernetes](containerorchestration#kubernetes)
+- [Networking](networking):
+	- [What Happens When ...](networking#what-happens-when)
+	- [TCP/IP](networking#tcpip)
+	- [DNS](networking#dns)
 	- Troubleshooting
 - Security:
 	- OWASP
@@ -47,8 +47,8 @@ Caveat... if you are new to this type of work, I think this list below can be ov
 - Configuration Management
 - Orchestration
 - CI/CD
-- [Additional Resources and Misc Reading](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources)
-	- [Computer Science Degree Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#computer-science-degree-resources)
-	- [DevOps Bootcamp Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#devops-bootcamp-resources)
-	- [Web Development Bootcamp Resources](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/resources#web-development-bootcamp-resources)
+- [Additional Resources and Misc Reading](resources)
+	- [Computer Science Degree Resources](resources#computer-science-degree-resources)
+	- [DevOps Bootcamp Resources](resources#devops-bootcamp-resources)
+	- [Web Development Bootcamp Resources](resources#web-development-bootcamp-resources)
 - Exercises
