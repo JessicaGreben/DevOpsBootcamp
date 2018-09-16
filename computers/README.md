@@ -6,6 +6,10 @@
 - Operating Systems
 
 #### Operating Systems
+Online References:
+                                                                                                       
+- http://www.linfo.org/ - It's somewhat dated, but is a great resource for info on Linux, and the foundation hasn't changed much in decades.
+                             
 
 Books:
 
