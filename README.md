@@ -39,7 +39,7 @@ Caveat... if you are new to this type of work, I think this list below can be ov
 	- CIS
 - Logging
 - Monitoring/Alerting
-- Performance
+- [Performance](performance):
 - Databases
 - Testing
 - Scalability
