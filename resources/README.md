@@ -9,6 +9,8 @@
 
 #### Computer Science Degree Resources
 
+- Great concise list of minimum CS courses for self-taught softare engineers, [Teach Yorself CS](https://teachyourselfcs.com/).
+
 - This is an awesome collection of FREE online courses that result in the equivalent of a Degree in Computer Science. [Open Source Society University: Computer Science](https://github.com/ossu/computer-science)
 
 #### DevOps Bootcamp Resources
