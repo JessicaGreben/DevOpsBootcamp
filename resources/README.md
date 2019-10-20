@@ -19,4 +19,4 @@
 
 #### Web Development Bootcamp Resources
 
-- This great option if you don't have the cash to attend a onsite dev bootcamp, [Free Code Camp](https://www.freecodecamp.org/) offers a free dev bootcamp online.  I compared the curriculum of Free Code Camp to the curriculum of the dev bootcamp I attended and its nearly identical, but $15k cheaper.  If you are a self starter, then this option could save you a bundle. 
+- This great option if you don't have the cash to attend a onsite dev bootcamp, [Free Code Camp](https://www.freecodecamp.org/) offers a free dev bootcamp online. I compared the curriculum of Free Code Camp to the curriculum of the dev bootcamp I attended and its nearly identical, but $15k cheaper. If you are a self starter, then this option could save you a bundle. 

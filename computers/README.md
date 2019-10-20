@@ -3,7 +3,8 @@
 ### Computers 101
 
 ### Table of Contents
-- Operating Systems
+- [Operating Systems](#operating-systems)
+- [Computer Architecture](#computer-architecture)
 
 #### Operating Systems
 Online References:
@@ -18,3 +19,10 @@ These are my current 2 favorite books:
 
 Videos:
 - Awesome video on CPU cache. [Scott Meyers: Cpu Caches and Why You Care](https://youtu.be/WDIkqP4JbkE)
+
+#### Computer Architecture
+
+The [NandToTetris course](https://www.nand2tetris.org/) is free and great for computer architecture.
+
+The [NandToTetris textbook](https://amzn.to/31wVrkk) is also great.
+ 
