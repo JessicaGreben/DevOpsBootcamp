@@ -1,4 +1,4 @@
-# DevOpsBootcamp
+# DevOps Bootcamp
 
 Note: This project is a work in progress and many of the topics below do not have resources added yet.
 
@@ -38,6 +38,8 @@ I've been slowly working my way through all the topics listed below. While there
 	- [OWASP](security#owasp)
 - [Performance](performance)
 - [Databases](databases)
+- [Computer Science]:
+	- [Data Structures and Algorithms](compsci#data-science-and-algorithms)
 - [Additional Resources and Misc Reading](resources):
 	- [Computer Science Degree Resources](resources#computer-science-degree-resources)
 	- [DevOps Bootcamp Resources](resources#devops-bootcamp-resources)
