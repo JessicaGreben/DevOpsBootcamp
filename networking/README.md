@@ -2,6 +2,8 @@
 
 ### Networking
 
+- A great textbook on [Computer Networking](https://amzn.to/3uQEfGd).
+
 #### What happens When...
 
 One of my favorite questions..."What happens when you type google.com into your browser's address box and press enter?"
