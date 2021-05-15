@@ -15,7 +15,7 @@
 
 #### DevOps Bootcamp Resources
 
-- Oregon State University offers a free online DevOpsBootcamp course. [OSU DevOpsBootcamp](http://devopsbootcamp.osuosl.org/)
+- Oregon State University offers a free online DevOps Bootcamp course. [OSU DevOpsBootcamp](http://devopsbootcamp.osuosl.org/)
 
 #### Web Development Bootcamp Resources
 

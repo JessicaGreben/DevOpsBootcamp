@@ -2,9 +2,6 @@
 
 ### Performance
 
-### Table of Contents
-- Numbers Every Engineer Should Know
-
 #### Numbers Every Engineer Should Know
 | Type           | Time  |
 | :------------- | -----:|

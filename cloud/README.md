@@ -13,3 +13,4 @@
 #### AWS
 
 - Pluralsight course in [AWS VPC](https://app.pluralsight.com/library/courses/aws-vpc-operations/table-of-contents) by Nigel Poulton.
+- ACloud Guru courses: https://acloudguru.com/

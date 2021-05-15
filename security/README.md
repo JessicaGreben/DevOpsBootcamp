@@ -1,9 +1,6 @@
-# DevOpsBootcamp
+# DevOps Bootcamp
 
 ### Security
-
-### Table of Contents
-- [OWASP](#owasp)
 
 #### OWASP
 

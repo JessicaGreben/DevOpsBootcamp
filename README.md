@@ -14,12 +14,10 @@ I've been slowly working my way through all the topics listed below. While there
 
 ### Table of Contents
 
-- [Jobs](jobs)
-- [Computers 101](computers):
+- [Computers](computers):
   - [Operating Systems (Unix/Linux)](computers#operating-systems)
   - [Computer Architecture](computers#computer-architecture)
 - [Programming](programming):
-	- Bash
 	- [Python](programming#python)
 	- [Go](programming#go)
 - [Cloud](cloud):
@@ -39,7 +37,8 @@ I've been slowly working my way through all the topics listed below. While there
 - [Performance](performance)
 - [Databases](databases)
 - [Computer Science]:
-	- [Data Structures and Algorithms](compsci#data-science-and-algorithms)
+	- [Data Structures and Algorithms](compsci#data-structures-and-algorithms)
+	- [Math for CS](compsci#math)
 - [Additional Resources and Misc Reading](resources):
 	- [Computer Science Degree Resources](resources#computer-science-degree-resources)
 	- [DevOps Bootcamp Resources](resources#devops-bootcamp-resources)
@@ -49,6 +48,7 @@ Topics WIP:
 - Virtual Machines
 - Logging
 - Monitoring/Alerting
+- Observability
 - Testing
 - Scalability
 - Reliability

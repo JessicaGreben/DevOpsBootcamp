@@ -2,12 +2,6 @@
 
 ### Networking
 
-### Table of Contents
-- [What Happens When ...](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#what-happens-when)
-- [TCP/IP](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#tcpip)
-- [DNS](https://github.com/JessicaGreben/DevOpsBootcamp/tree/master/networking#dns)
-- Troubleshooting
-
 #### What happens When...
 
 One of my favorite questions..."What happens when you type google.com into your browser's address box and press enter?"
