@@ -36,7 +36,7 @@ I've been slowly working my way through all the topics listed below. While there
 	- [OWASP](security#owasp)
 - [Performance](performance)
 - [Databases](databases)
-- [Computer Science]:
+- [Computer Science](compsci):
 	- [Data Structures and Algorithms](compsci#data-structures-and-algorithms)
 	- [Math for CS](compsci#math)
 - [Additional Resources and Misc Reading](resources):
