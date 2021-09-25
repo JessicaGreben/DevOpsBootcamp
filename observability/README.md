@@ -4,4 +4,4 @@
 
 #### Prometheus
 
-- The best info to get learn Prometheus: [Prometheus Up and Running](https://amzn.to/2WcweiF)
+- The best book to learn about Prometheus: [Prometheus Up and Running](https://amzn.to/2WcweiF)
