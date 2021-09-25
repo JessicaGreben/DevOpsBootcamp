@@ -35,6 +35,7 @@ I've been slowly working my way through all the topics listed below. While there
 - [Security](security):
 	- [OWASP](security#owasp)
 - [Performance](performance)
+- [Observability/Monitoring/Alerting](observability)
 - [Databases](databases)
 - [Computer Science](compsci):
 	- [Data Structures and Algorithms](compsci#data-structures-and-algorithms)
@@ -47,8 +48,6 @@ I've been slowly working my way through all the topics listed below. While there
 Topics WIP:
 - Virtual Machines
 - Logging
-- Monitoring/Alerting
-- Observability
 - Testing
 - Scalability
 - Reliability
