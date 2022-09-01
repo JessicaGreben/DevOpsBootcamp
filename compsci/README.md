@@ -2,6 +2,8 @@
 
 ### Computer Science
 
+Teach Yourself CS: https://teachyourselfcs.com/
+
 #### Data Structures and Algorithms
 
 Resources to learn data structure and algorithms:
